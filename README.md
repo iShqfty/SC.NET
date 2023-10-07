@@ -12,10 +12,10 @@ Learn About The Full Library, How It Works & Some Examples To Help You Implement
 # string getName()
 Returns currently set name 
 
-# getTeam()
+### getTeam()
 
-# getLocation()
+### getLocation()
 
 ## Team
 
-# getName()
+### getName()
