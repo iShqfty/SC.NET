@@ -1,0 +1,12 @@
+C:\Users\alaiw\OneDrive\Desktop\scnet\bin\Release\net6.0\scnet.deps.json
+C:\Users\alaiw\OneDrive\Desktop\scnet\bin\Release\net6.0\scnet.dll
+C:\Users\alaiw\OneDrive\Desktop\scnet\bin\Release\net6.0\scnet.pdb
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\scnet.csproj.AssemblyReference.cache
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\scnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\scnet.AssemblyInfoInputs.cache
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\scnet.AssemblyInfo.cs
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\scnet.csproj.CoreCompileInputs.cache
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\scnet.dll
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\refint\scnet.dll
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\scnet.pdb
+C:\Users\alaiw\OneDrive\Desktop\scnet\obj\Release\net6.0\ref\scnet.dll
