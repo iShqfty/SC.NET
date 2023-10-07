@@ -1,2 +1,2 @@
 # SC.NET
-<a href="https://swimcloud.com/">SwimCloud</a> Info Extractor Based On Web Scraping
+[SwimCloud](https://swimcloud.com/) Info Extractor Based On Web Scraping
