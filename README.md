@@ -3,4 +3,19 @@
 
 # Intro
 
-### Docs
+# Docs
+
+Learn About The Full Library, How It Works & Some Examples To Help You Implement
+
+## Swimmer
+
+# getName() (<b>string</b>)
+Returns currently set name 
+
+# getTeam()
+
+# getLocation()
+
+## Team
+
+# getName()
