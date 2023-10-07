@@ -7,15 +7,19 @@
 
 Learn About The Full Library, How It Works & Some Examples To Help You Implement
 
-## Swimmer
-
-# string getName()
-Returns currently set name 
-
-### getTeam()
-
-### getLocation()
-
 ## Team
 
 ### getName()
+
+## Swimmer
+
+### getName() -> string
+Returns currently set name for swimmer (first + last)
+
+### getTeam() -> scnet.Team
+Constructs new team object by Team ID referenced in scraped HTML element.
+
+### getTeamName() -> string
+Alternative to getTeam() if you only want the name & not additional class info.
+
+### getLocation() -> string
