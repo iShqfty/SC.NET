@@ -9,7 +9,7 @@ Learn About The Full Library, How It Works & Some Examples To Help You Implement
 
 ## Swimmer
 
-# getName() (<b>string</b>)
+# getName() (<strong>string</strong>)
 Returns currently set name 
 
 # getTeam()
