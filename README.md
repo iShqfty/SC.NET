@@ -11,10 +11,10 @@ Learn About The Full Library, How It Works & Some Examples To Help You Implement
 
 ### getName()
 
-## Swimmer
+# Swimmer
 
 ### getName() -> string
-Returns currently set name for swimmer (first + last)
+Returns currently set name for swimmer (First + Last).
 
 ### getTeam() -> scnet.Team
 Constructs new team object by Team ID referenced in scraped HTML element.
@@ -23,3 +23,4 @@ Constructs new team object by Team ID referenced in scraped HTML element.
 Alternative to getTeam() if you only want the name & not additional class info.
 
 ### getLocation() -> string
+Returns location (City, State).
