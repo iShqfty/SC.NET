@@ -9,7 +9,7 @@ Learn About The Full Library, How It Works & Some Examples To Help You Implement
 
 ## Team
 
-### getName()
+#### getName()
 
 # Swimmer (int id -> Within Desired Swimmers URL)
 
