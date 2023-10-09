@@ -7,23 +7,6 @@
 
 Learn About The Full Library, How It Works & Some Examples To Help You Implement
 
-## Team (int id -> Within Desired Team's URL)
-
-#### getName() -> System.String
-Returns currently set name for team.
-
-#### getDescription() -> System.String
-Returns associated description of the team on the about page. If no description exists, a message is returned, "No Description Available: " + the error message, which is usually a 404 (can be removed).
-
-#### getTags() -> List<System.String>
-Returns all tags associated with team, displayed under title (ex: division).
-
-#### getLogoURL() -> System.String
-Returns a System.String representation of the URL representing the logo of the team.
-
-#### getCoverURL() -> System.String
-Returns a System.String representation of the URL representing the back cover image of the team.
-
 ## Swimmer (int id -> Within Desired Swimmer's URL)
 
 #### getName() -> System.String
@@ -52,3 +35,25 @@ Constructs a list of all meets this swimmer has ever attended / completed
 
 #### getAllMeetNames() -> List<System.String>
 Alternative to getAllMeets() if you only want the meet names & not additional meet info.
+
+## Team (int id -> Within Desired Team's URL)
+
+#### getName() -> System.String
+Returns currently set name for team.
+
+#### getDescription() -> System.String
+Returns associated description of the team on the about page. If no description exists, a message is returned, "No Description Available: " + the error message, which is usually a 404 (can be removed).
+
+#### getTags() -> List<System.String>
+Returns all tags associated with team, displayed under title (ex: division).
+
+#### getLogoURL() -> System.String
+Returns a System.String representation of the URL representing the logo of the team.
+
+#### getCoverURL() -> System.String
+Returns a System.String representation of the URL representing the back cover image of the team.
+
+## Meet (int id -> Within Desired Meet's URL)
+
+#### getName() -> System.String
+Returns name of the meet
