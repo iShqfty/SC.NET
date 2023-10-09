@@ -1,7 +1,9 @@
 # SC.NET
-[SwimCloud](https://swimcloud.com/) Info Extractor Based On Web Scraping
+Open Source [SwimCloud](https://swimcloud.com/) Info Extractor Based On Web Scraping
 
 # Intro
+
+SC.NET is a C#-built, open-source SwimCloud data extraction tool designed for individual use. This project is dedicated to providing a powerful web scraping solution tailored specifically for SwimCloud (https://swimcloud.com/), enabling you to effortlessly extract comprehensive swim meet results, athlete profiles, and more. Dive into the world of swimming data with SC.NET, a robust and intuitive library crafted by a single developer.
 
 # Docs
 
