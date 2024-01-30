@@ -7,6 +7,7 @@ namespace scnet
     {
         public int ID { get; }
         private string page;
+        
         public Swimmer(int swID)
         {
             ID = swID;
@@ -98,6 +99,7 @@ namespace scnet
         public async Task<Meet> getMostRecentMeet()
         {
             await Utils.scr.SetPage(page + "/meets/");
+            
             var hrefs = (await Utils.scr.getNodeListContaining("a", "class", "c-swimmer-meets__link-mask")).ToList()[0];
 
             var atval = hrefs.GetAttributeValue("href", "");
@@ -108,6 +110,7 @@ namespace scnet
         public async Task<List<Meet>> getAllMeets()
         {
             await Utils.scr.SetPage(page + "/meets/");
+            
             var hrefs = (await Utils.scr.getNodeListContaining("a", "class", "c-swimmer-meets__link-mask")).ToList();
 
             List<Meet> ret = new List<Meet>();
@@ -134,6 +137,5 @@ namespace scnet
 
             return string.IsNullOrEmpty(ret[0]) ? new List<string>() { "No Available Meets Found" } : ret;
         }
-
     }
 }
